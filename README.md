@@ -1,6 +1,8 @@
 # 📦 NPS Preditivo — Tech Challenge Fase 1
 **FIAP PosTech | Pós-Graduação em Data Science**
 
+Tainá Julianotti
+
 ---
 
 ## 🎯 Objetivo do projeto
