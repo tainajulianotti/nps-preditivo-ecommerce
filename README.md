@@ -114,7 +114,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nps-preditivo-fase1.git
+git clone https://github.com/tainajulianotti/nps-preditivo-ecommerce.git
 cd nps-preditivo-fase1
 ```
 
@@ -125,7 +125,7 @@ data/desafio_nps_fase_1.csv
 
 3. Abra o notebook:
 ```bash
-jupyter notebook notebooks/eda_nps.ipynb
+jupyter notebook notebooks/notebook_analise_exploratoria.ipynb
 ```
 
 4. Execute todas as células em ordem (`Kernel > Restart & Run All`)
@@ -134,8 +134,10 @@ Os gráficos serão salvos automaticamente na pasta `reports/`.
 
 ---
 
-## 👥 Autores
+## Referencias
 
-Desenvolvido como parte do **Tech Challenge — Fase 1** da Pós-Graduação em Data Science da FIAP PosTech.
+https://www.salesforce.com/br/blog/net-promoter-score/
+https://www.sults.com.br/blog/nps-para-franquias/
+https://www.tabcut.com/blog/post/supply-chain-for-e-commerce-companies
 
 ---
